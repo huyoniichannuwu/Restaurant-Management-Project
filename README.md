@@ -20,3 +20,4 @@ json file will be like this
 
 you will put json file with name **db\_config** in a folder name config and you will put that folder inside **RestaurantOrderManagement/RestaurantOrderManagement**
 
+## SOURCE CODE: in branch "develop", include .h and .cpp files as OOP structure. providing encapsulation and modularity files
